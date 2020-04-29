@@ -1,5 +1,4 @@
-cd repo
-git branch gh-pages
+
 # click the link to find animations 
 * SPEED CHRISTMAS  :  https://nhoues.github.io/Infrastructure-Project/SPEED_CHRISTMAS.html
 * SPEED_MONDAYS :  https://nhoues.github.io/Infrastructure-Project/SPEED_MONDAYS.html
