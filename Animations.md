@@ -6,4 +6,6 @@
 * SPEED :  https://nhoues.github.io/Infrastructure-Project/SPEED.html
 * map_visualization_notebook :  https://nhoues.github.io/Infrastructure-Project/map_visualization_notebook.html
 * BUS_COUNT :  https://nhoues.github.io/Infrastructure-Project/BUS_COUNT.html
+* Plots :  https://nhoues.github.io/Infrastructure-Project/Plots.html
+
 
