@@ -1,4 +1,3 @@
-git clone git@github.com:username/repo.git
 cd repo
 git branch gh-pages
 # click the link to find animations 
